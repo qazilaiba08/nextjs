@@ -34,3 +34,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+two differtent types of components 
+Client and Server 
+next js wil be convert into server components
+
+Routing
+folder name its becoming route name its file page.tsx its render for that route its special file naming
+convention for displaying web router content but in most cases that not enough
+you well need nested routes lets say developed routes in admin dashboard with this 
+application and wanna create a route for /dashboar/users nd /dashnoard/analysts 
+offcourse you cant create two folders with the s
